@@ -1,0 +1,7 @@
+D:\Hyperian\UIPathPDFCustomActivity\UIPathPDFCustomActivity\bin\Debug\UIPathPDFCustomActivity.dll
+D:\Hyperian\UIPathPDFCustomActivity\UIPathPDFCustomActivity\bin\Debug\UIPathPDFCustomActivity.pdb
+D:\Hyperian\UIPathPDFCustomActivity\UIPathPDFCustomActivity\bin\Debug\iTextSharp.dll
+D:\Hyperian\UIPathPDFCustomActivity\UIPathPDFCustomActivity\obj\Debug\UIPathPDFCustomActivity.csproj.ResolveComReference.cache
+D:\Hyperian\UIPathPDFCustomActivity\UIPathPDFCustomActivity\obj\Debug\UIPathPDFCustomActivity.dll
+D:\Hyperian\UIPathPDFCustomActivity\UIPathPDFCustomActivity\obj\Debug\UIPathPDFCustomActivity.pdb
+D:\Hyperian\UIPathPDFCustomActivity\UIPathPDFCustomActivity\obj\Debug\UIPathPDFCustomActivity.csprojResolveAssemblyReference.cache
