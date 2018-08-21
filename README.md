@@ -12,12 +12,6 @@ The source code is ready to build as an Uipath Activity. Ensure that below refer
 i) system.Activities<br/>
 ii) system.Componentmodel.Composistion
 
-Running the tests:<br/>
-
-The source code is ready to build as an Uipath Activity. Ensure that below references have been added to the project<br/>
-i) system.Activities<br/>
-ii) system.Componentmodel.Composistion<br/>
-
 Deployment:
 
 1. Once you are done with cloning the source code, build the solution. The Output panel is displayed, informing you that the file is built and displays its path. In our case the GetDataFromFormPDF.dll file is created.<br/>
